@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
-    background: #333;
+    background: #777777;
     color: #fff;
     font-size: 1.1em;
     line-height: 1.5;
@@ -28,7 +28,7 @@ body {
 
   .btn {
     display: inline-block;
-    background: #333;
+    background: #ffae37;
     color: #fff;
     text-decoration: none;
     padding: 1em 2em;
@@ -118,7 +118,7 @@ body {
   }
 
   #section-d .box:first-child {
-    background: #2690d4;
+    background: #ffae37;
   }
 
   /* Footer */
